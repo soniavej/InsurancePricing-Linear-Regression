@@ -13,16 +13,22 @@ This will help medical insurance company to decide the future premium charge .
  
  <img src="https://user-images.githubusercontent.com/99994988/154973430-ecd1099f-fd63-4fa2-b891-2e874a93497d.png" width="400" height="300" align="right">
  
- <img src="https://user-images.githubusercontent.com/99994988/154974035-73495b6d-5bc6-4f35-91cc-a7f3574ffe31.png" width="400" height="300" align="left">
+ <img src="https://user-images.githubusercontent.com/99994988/154974035-73495b6d-5bc6-4f35-91cc-a7f3574ffe31.png" width="400" height="300" align="centre">
  
  <img src="https://user-images.githubusercontent.com/99994988/154973820-60cd13ef-e5ec-4013-a965-2fdac17545b7.png" width="400" height="300" align="right">
  
- <img src="https://user-images.githubusercontent.com/99994988/154974951-d563ea78-c06d-47b2-a059-dd97f7675221.png" width="400" height="300" align="left">
+ <img src="https://user-images.githubusercontent.com/99994988/154974951-d563ea78-c06d-47b2-a059-dd97f7675221.png" width="400" height="300" align="centre">
  
- LINEAR REGRESSION MODEL
+ 
+ 
+ 
+ 
+ LINEAR REGRESSION MODEL:
  
  MODEL 1 WITH ALL THE VARIABLES : R SQUARED OF 75%
+ 
  MODEL 2 WITHOUT THE VARIABLE "SEX" AS IT IS NOT SIGNIFICANT IN MODEL 1: R SQUARED OF 79.74%
+ 
  MODEL 3 WITHOUT THE VARIABLE "SEX" AND "REGION" AND WITH "BMI* SMOKER" : R SQUARED OF 86%
  
  CONCLUSION:
